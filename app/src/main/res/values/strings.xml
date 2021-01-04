@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">QuickCalculator</string>
+    <string name="home_appbar_text">Calculator</string>
+    <string name="value_1_hint">value 1</string>
+    <string name="value_2_hint">value 2</string>
+    <string name="add_button_text">+</string>
+    <string name="subtract_button_text">-</string>
+    <string name="multiply_button_text">*</string>
+    <string name="divide_button_text">/</string>
 </resources>
