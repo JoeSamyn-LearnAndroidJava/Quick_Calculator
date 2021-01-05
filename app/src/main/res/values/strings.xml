@@ -7,4 +7,6 @@
     <string name="subtract_button_text">-</string>
     <string name="multiply_button_text">*</string>
     <string name="divide_button_text">/</string>
+    <string name="equals_button_text">=</string>
+    <string name="equals_sign">=</string>
 </resources>
